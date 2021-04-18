@@ -1,2 +1,2 @@
 # python-journey
-Learn everything about Python
+learn everything about python
