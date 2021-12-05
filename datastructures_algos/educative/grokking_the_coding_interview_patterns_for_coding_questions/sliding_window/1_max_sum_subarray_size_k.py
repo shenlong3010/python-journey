@@ -20,5 +20,5 @@ def max_sub_array_of_size_k(k, arr):
 	return maxSum
 
 
-print(naive(3, [2, 1, 5, 1, 3, 2]))
-print(max_sub_array_of_size_k(3, [2, 1, 5, 1, 3, 2]))
+print(naive(3, [2, 1, 5, 1, 3, 2])) # 9
+print(max_sub_array_of_size_k(3, [2, 1, 5, 1, 3, 2])) # 9
